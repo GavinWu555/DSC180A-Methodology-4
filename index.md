@@ -1,3 +1,12 @@
+**Name:** Gavin Wu
+
+**Email** [gawu@ucsd.edu](mailto:gawu@ucsd.edu)
+
+**DSC-180AB Section:** Empirical Study of LLM and Coding Agent Best Practices
+
+**Mentors:** Armin Schwartzman, Justin Eldridge
+
+
 **Q1: What is the most interesting topic covered in your domain this quarter?**
 
 A1: The most interesting topic covered this quarter is the process of experimental design, including how to design proper controls, selecting independent and dependent variables that reflect an experimental hypothesis, how to properly quantify these variables into numerical values, and employing statistical techniques to derive a conclusion.
