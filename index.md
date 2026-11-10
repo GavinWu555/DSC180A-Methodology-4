@@ -1,6 +1,6 @@
 **Name:** Gavin Wu
 
-**Email** [gawu@ucsd.edu](mailto:gawu@ucsd.edu)
+**Email:** [gawu@ucsd.edu](mailto:gawu@ucsd.edu)
 
 **DSC-180AB Section:** Empirical Study of LLM and Coding Agent Best Practices
 
