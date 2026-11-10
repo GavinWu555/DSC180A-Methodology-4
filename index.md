@@ -17,7 +17,7 @@ As a data science student, I am used to being given datasets that are already bu
 
 A2: One potential investigation for Quarter 2 would be performing the experiment on different models. Our project uses qwen 3.5 4b locally. I am curious how our experiment would perform with different frontline models. It would be interesting to see if frontline models have the same relatioships with split and bulk prompting that smaller and older models do. 
 
-This aligns with the goals of Prof. Schwartzman and Prof. Eldrige for DSC-180AB, with the first quarter being "illustrated by experiments on small LLMs" and the second quarter being on "larger LLM experiments", stated [here](https://dsc-capstone.org/enrollment/).
+This aligns with the goals of Prof. Schwartzman and Prof. Eldridge for DSC-180AB, with the first quarter being "illustrated by experiments on small LLMs" and the second quarter being on "larger LLM experiments", stated [here](https://dsc-capstone.org/enrollment/).
 
 **Q3: What is a potential change you’d make to the approach taken in your current Quarter 1 Project?**
 
